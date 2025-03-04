@@ -8,9 +8,8 @@ import os
 import psutil
 
 engine = pyttsx3.init()
-engine.setProperty('rate', 180)  # Set speech rate
-engine.setProperty('volume', 3.0)  # Set volume
-
+engine.setProperty('rate', 180)  
+engine.setProperty('volume', 3.0) 
 GEMINI_API_KEY = "AIzaSyCQcxy1rgvJmTHn7u5AeG_veXNyZwabStU"
 
 
