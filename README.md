@@ -38,7 +38,7 @@ nova_ai_assistant/
 ## Prerequisites
 
 - **Python 3.x**
-- Required libraries (install using `pip install -r requirements.txt`):
+- Required libraries (install using `pip install RequiredlibrarieName `):
   - `speechrecognition`
   - `pyttsx3`
   - `wikipedia`
