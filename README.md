@@ -45,27 +45,7 @@ nova_ai_assistant/
   - `requests`
   - `psutil`
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/nova_ai_assistant.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd nova_ai_assistant
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-Run the assistant using:
-```sh
-python main.py
-```
 Then, use voice commands like:
 - "Hello"
 - "Search Wikipedia for Python programming"
